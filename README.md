@@ -1,5 +1,5 @@
 # Gold Digger
-A Poor Little Pixel Lost in Rectilinear Grid
+The Poor Little Pixel Lost in a Rectilinear Grid:
 
 A Q-Learning Approach
 
